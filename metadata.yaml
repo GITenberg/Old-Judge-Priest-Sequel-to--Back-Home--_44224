@@ -1,0 +1,33 @@
+_repo: Old-Judge-Priest-Sequel-to--Back-Home--_44224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: 'Sequel to "Back Home," #44223.'
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Kentucky -- Social life and customs -- Fiction'
+tableOfContents: The Lord provides -- A blending of the parables -- Judge Priest comes
+  back -- A chapter from the life of an ant -- Sergeant Jimmy Bagby's feet -- According
+  to the code -- Forrest's last charge -- Double-barrelled justice -- A beautiful
+  evening.
+title: Old Judge Priest
+url: http://www.gutenberg.org/ebooks/44224
